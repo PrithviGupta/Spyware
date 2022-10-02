@@ -15,6 +15,7 @@ if __name__ == "__main__":
     main()
 
 
+#show ad on click
 # from pynput import mouse
 # def on_click(x, y, button, pressed):
 #     adware()
